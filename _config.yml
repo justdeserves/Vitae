@@ -10,10 +10,7 @@ safe: true
 url: http://justdeserves.github.io/vitae
 author: Chris Heath
 
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /
 title: Chris Heath's Resume
 name: Chris Heath
 email: justdeserves@hotmail.com
