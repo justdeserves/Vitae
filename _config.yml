@@ -10,7 +10,7 @@ safe: true
 url: http://justdeserves.github.io/vitae
 author: Chris Heath
 
-baseurl: /
+baseurl: /Vitae/
 title: Chris Heath's Resume
 name: Chris Heath
 email: justdeserves@hotmail.com
